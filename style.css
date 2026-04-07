@@ -1,0 +1,16 @@
+body{
+    background-color: darkcyan;
+    color: white
+}
+p{
+    color: black;
+    font-size: large
+    
+}
+nav{
+    text-align:center;
+    background-color: white;
+}
+footer{
+    text-align: center;
+}
